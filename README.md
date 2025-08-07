@@ -37,4 +37,4 @@ y busco una oportunidad en una empresa donde pueda contribuir con mis habilidade
 
 ---
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AldoTorrez&show_icons=true&count_private=true&hide=contribs&theme=black)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Barcoder2&show_icons=true&count_private=true&hide=contribs&theme=black)
